@@ -1,7 +1,7 @@
-name: speech_to_text
+name: my_speech_app
 description: "A new Flutter project."
 
-publish_to: 'none'  
+publish_to: 'none'
 
 version: 1.0.0+1
 
@@ -13,7 +13,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
-#  speech_to_text: ^7.0.0
+  speech_to_text: ^7.0.0
+  get: ^4.7.2
+  avatar_glow: ^3.0.1
 
 dev_dependencies:
   flutter_test:
