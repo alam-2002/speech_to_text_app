@@ -1,4 +1,4 @@
-package com.example.my_speech_app
+package com.example.speech_to_text
 
 import io.flutter.embedding.android.FlutterActivity
 
